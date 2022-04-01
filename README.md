@@ -14,7 +14,7 @@ CoverM offers the possibility to use two different aligners, [bwa-mem](https://g
 
 
 ## Let's get started
-- (add the name of the starting notebook): We will first download the reads we will use for the course. Julia's work (see supplemntary material of Pachiadaki et al. 2017) showed that, regarding the relative abundance of genomes, mapping million reads provides comparible results with mapping larger metagenomes. For this reason, we are going to subsamples the genomes as we download them.
+- [Metagenome_Recruitment_Setup.ipynb](https://github.com/Bigelow-SCG-Course/Day3AM_read_recruitment/blob/main/Metagenome_Recruitment_Setup.ipynb): We will first download the reads we will use for the course. Julia's work (see supplemntary material of Pachiadaki et al. 2017) showed that, regarding the relative abundance of genomes, mapping million reads provides comparible results with mapping larger metagenomes. For this reason, we are going to subsamples the genomes as we download them.
 - (add the name of the coverm notebook): We will then run CoverM.
-- (add the name of the plotting notebook): Finally, we will plot the results.
+- [metagenome_recruitment_plotting.ipynb](https://github.com/Bigelow-SCG-Course/Day3AM_read_recruitment/blob/main/metagenome_recruitment_plotting.ipynb): Finally, we will plot the results.
 

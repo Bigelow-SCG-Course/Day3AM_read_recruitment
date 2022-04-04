@@ -19,7 +19,7 @@ CoverM offers the possibility to use two different aligners, [bwa-mem](https://g
 $ cd ~/storage/user_lab/{your_username_here}/
 $ git clone https://github.com/Bigelow-SCG-Course/Day3AM_read_recruitment.git
 ```
-- [Metagenome_Recruitment_Setup.ipynb](https://github.com/Bigelow-SCG-Course/Day3AM_read_recruitment/blob/main/Metagenome_Recruitment_Setup.ipynb): We will next go over how we downloaded the reads we will use for the course. Julia's work (see supplemntary material of Pachiadaki et al. 2017) showed that -  regarding the estimation of relative abundance of genomes - mapping million reads provides comparible results with mapping larger metagenomes. For this reason, we are going to subsamples the genomes as we download them.
-- [CoverM.ipynb](LINK): We will then run CoverM.
+- [Metagenome_Recruitment_Setup.ipynb](https://github.com/Bigelow-SCG-Course/Day3AM_read_recruitment/blob/main/Metagenome_Recruitment_Setup.ipynb): We will next go over how we downloaded the reads we will use for the course. Julia's work (see supplementary material of Pachiadaki et al. 2017) showed that -  regarding the estimation of relative abundance of genomes - mapping million reads provides comparible results with mapping larger metagenomes. For this reason, we are going to subsamples the genomes as we download them.
+- [CoverM.ipynb](https://github.com/Bigelow-SCG-Course/Day3AM_read_recruitment/blob/main/CoverM.ipynb): We will then run CoverM.
 - [metagenome_recruitment_plotting.ipynb](https://github.com/Bigelow-SCG-Course/Day3AM_read_recruitment/blob/main/metagenome_recruitment_plotting.ipynb): Finally, we will explore and visualize the results.
 
